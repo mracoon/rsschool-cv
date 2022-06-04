@@ -8,6 +8,7 @@
 * **GitHub:** [mracoon](https://github.com/mracoon)
 
 ## About myself
+I work as an engineer at the proton accelerator. I have experience in Labview and have recently started learning MySQL. I am currently enrolled in a JS/FRONT-END course. STAGE0 at RS School. I want to become a front-end developer in the future.
 
 ## Skills
 * HTML 
