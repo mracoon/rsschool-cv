@@ -3,7 +3,7 @@
 
 ## Contacts
 
-* **Phone:** +79689628195
+* **Telegram:** @mracoon
 * **Email:** nataliyakomarova777@gmail.com
 * **GitHub:** [mracoon](https://github.com/mracoon)
 
