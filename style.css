@@ -157,6 +157,13 @@ div.section {
   float: right;
   filter: invert(1);
   margin-top: 20px;
+  transition: 1s;
+  opacity: 0.8;
+  ;
+}
+
+.rss:hover {
+  opacity: 1;
 }
 
 .footer-element {
@@ -233,6 +240,7 @@ p {
   background-color: white;
   border: 2px solid #6e2091;
   border-radius: 20px;
+  min-height: 260px;
 }
 
 .section-list {
@@ -249,6 +257,10 @@ p {
 
 #contacts .section-list .section-item {
   margin-bottom: 10px;
+}
+
+#contacts .section-list .section-item:last-child {
+  margin-bottom: 0;
 }
 
 .section-item.location {
